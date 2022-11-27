@@ -7,7 +7,7 @@
 <ul>
   <li><strong>JavaScript</strong></li>
   <ul>
-    <li>🧩Node.js</li>
+    <li>📟Node.js</li>
     <li>⚡Express.js</li>
   </ul>
   
