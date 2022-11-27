@@ -5,8 +5,9 @@
 
 ### 📑 Familiar with && Currently learning about
 <ul>
-  <li><strong>JavaScript/Node.js</strong></li>
+  <li><strong>JavaScript</strong></li>
   <ul>
+    <li>🧩Node.js</li>
     <li>⚡Express.js</li>
   </ul>
   
