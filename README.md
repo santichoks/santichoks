@@ -1,5 +1,5 @@
 ### 🐮 Hi, I'm Santichoks
-### 📑 Familiar with & Currently learning about
+### 📑 Familiar with && Currently learning about
 <ul>
   <li><strong>JavaScript/Node.js</strong></li>
   <ul>
