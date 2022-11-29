@@ -1,6 +1,6 @@
 ### 🐮 Hi, I'm Santichoks
 <ul list-style-type="none">
-  <li>I have studied Control and Instrumentation Engineering, but all I want to be is a Software Engineer.</li>
+  <li>I have studied control and instrumentation engineering, but all I want to be is a software engineer. I used my free time to practice everything I must have known about web development. It's very hard for me, but I still keep learning. Finally, I'd like to thank everyone who has shown interest in my GitHub profile.</li>
 </ul>
 
 ### 📑 Familiar with && Currently learning about
