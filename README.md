@@ -21,7 +21,7 @@
   <li><strong>Database</strong></li>
   <ul>
     <li>PostgreSQL</li>
-    <li>MongoDb</li>
+    <li>MongoDB</li>
     <li>Redis</li>
   </ul>
   <li><strong>Others</strong></li>
